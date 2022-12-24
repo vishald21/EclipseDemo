@@ -8,6 +8,8 @@ public class Demo {
 		
 		System.out.println("vishal Doke");
 
+		System.out.println("vishal Doke");
+
 	}
 
 }
