@@ -14,5 +14,7 @@ public class Demo {
 private void sysou() {
 	// TODO Auto-generated method stub
 System.out.println("pull request");
+
+System.out.println("2ndtime");
 }
 }
