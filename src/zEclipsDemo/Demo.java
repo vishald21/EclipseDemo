@@ -9,11 +9,4 @@ public class Demo {
 		System.out.println("vishal Doke");
 
 		
-
-	}
-private void sysou() {
-	// TODO Auto-generated method stub
-System.out.println("pull request");
-
-}
-}
+	}}
