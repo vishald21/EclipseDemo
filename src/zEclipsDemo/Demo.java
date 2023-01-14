@@ -24,6 +24,7 @@ public class Demo {
     	  System.out.println("this is feacher branch");
     	  System.out.println("1sttesting branch");
     	  System.out.println("this is testing branch");
+    	  System.out.println("using eclips terminal and configure");
       }
 
 	public static void main(String[] args) {
